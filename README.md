@@ -16,5 +16,6 @@ Auto get newest movie list in [Eyny forum](https://www.eyny.com/), and send moiv
 
 ## demo
 
-![01](https://user-images.githubusercontent.com/16682813/79298153-db15cf80-7f12-11ea-9873-55e52a09f376.jpg)
-![04](https://user-images.githubusercontent.com/16682813/79298160-dcdf9300-7f12-11ea-9f7f-dc2e487bf162.png)
+![Send movie info to user (Line app in mobile)](https://user-images.githubusercontent.com/16682813/79298153-db15cf80-7f12-11ea-9873-55e52a09f376.jpg)
+
+![Send movie info to user (Line app in PC)](https://user-images.githubusercontent.com/16682813/79298160-dcdf9300-7f12-11ea-9f7f-dc2e487bf162.png)
